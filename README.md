@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./image/linkedin.svg) width="30px" ](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-light-mode-only)
+[![website](./image/linkedin.svg)](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-light-mode-only)
 [![website](./image/linkedin.svg) ](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website ](./image/instagram.svg)](https://www.instagram.com/surajbhan2019#gh-light-mode-only)
@@ -31,14 +31,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-
-<br />
 <br />
 
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🦠%20My%20Resume-000)](https://suraj-bhan-yadav.github.io/myResume/)
-[![](https://img.shields.io/badge/-🦠%20SuperHero%20Hunter-App-000)](https://suraj-bhan-yadav.github.io/Super-Hero-Hunter-App/index.html)
+[![](https://img.shields.io/badge/-🦠%20SuperHero%20Hunter-App-000)](https://suraj-bhan-yadav.github.io/Super-Hero-Hunter-App/index.html/)
 [![](https://media.istockphoto.com/id/961324146/vector/stopwatch-icon-in-flat-style-timer-on-color-background-sport-clock-vector-design-element-for.jpg?s=612x612&w=0&k=20&c=bqVruhi1N830o5u_LsVV5pIW0uEfVRybUZn-VZw3CcE=-🦠%20Stop%20Watch-000)](https://suraj-bhan-yadav.github.io/StopWatch/)
 
 <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suraj-Bhan-Yadav&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
