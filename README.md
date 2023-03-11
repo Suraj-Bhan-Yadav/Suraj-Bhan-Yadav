@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-light-mode-only)
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-dark-mode-only)
+[![website](./image/LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-light-mode-only)
+[![website](./image/LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png)](https://www.instagram.com/surajbhan2019#gh-light-mode-only)
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png)](https://www.instagram.com/surajbhan2019#gh-dark-mode-only)
+[![website](./image/Instagram_logo_2016.svg.webp)](https://www.instagram.com/surajbhan2019#gh-light-mode-only)
+[![website](./image/Instagram_logo_2016.svg.webp)](https://www.instagram.com/surajbhan2019#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -33,11 +33,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 
 <br />
+<br />
+
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🦠%20My%20Resume-000)](https://suraj-bhan-yadav.github.io/myResume/)
 [![](https://img.shields.io/badge/-🦠%20SuperHero%20Hunter-App-000)](https://suraj-bhan-yadav.github.io/Super-Hero-Hunter-App/index.html)
 [![](https://media.istockphoto.com/id/961324146/vector/stopwatch-icon-in-flat-style-timer-on-color-background-sport-clock-vector-design-element-for.jpg?s=612x612&w=0&k=20&c=bqVruhi1N830o5u_LsVV5pIW0uEfVRybUZn-VZw3CcE=-🦠%20Stop%20Watch-000)](https://suraj-bhan-yadav.github.io/StopWatch/)
 
-<img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suraj-Bhan-Yadav&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suraj-Bhan-Yadav&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suraj-Bhan-Yadav&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
