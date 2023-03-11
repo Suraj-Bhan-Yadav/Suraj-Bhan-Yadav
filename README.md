@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./image/LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-light-mode-only)
-[![website](./image/LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-dark-mode-only)
+[![website](./image/linkedin.svg) width="30px" ](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-light-mode-only)
+[![website](./image/linkedin.svg) ](https://www.linkedin.com/in/surajbhan-yadav-a031121a1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./image/Instagram_logo_2016.svg.webp)](https://www.instagram.com/surajbhan2019#gh-light-mode-only)
-[![website](./image/Instagram_logo_2016.svg.webp)](https://www.instagram.com/surajbhan2019#gh-dark-mode-only)
+[![website ](./image/instagram.svg)](https://www.instagram.com/surajbhan2019#gh-light-mode-only)
+[![website](./image/instagram.svg)](https://www.instagram.com/surajbhan2019#gh-dark-mode-only)
 
 ### Languages and Tools:
 
