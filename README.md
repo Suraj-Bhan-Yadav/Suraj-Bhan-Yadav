@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full stack web development
 - 🌱 I’m currently learning backend development
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about fullstack development
 - ⚡ Fun fact: I love to dance and play guitar
 
 <!-- ### Connect with me:
