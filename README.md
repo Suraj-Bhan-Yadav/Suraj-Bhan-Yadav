@@ -25,10 +25,9 @@
  
 </div>
 <br>
-<h1>Hi 👋, I'm SurajBhan Yadav</h1>
-<h3>A passionate frontend developer from India</h3>
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+I'm+Surajbhan+Yadav+!;" style="max-width: 100%;">
 
-## I'm a Student, Programmer, Problem-Solver , Developer!!
+<img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&width=500&height=51&lines=I+am+passionate+Frontend+Developer;Aspiring+Backend+Developement;Programmer+Problem+Solver' alt="Typing SVG"/>
 
 Here are some ideas to get you started:
 
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
 [![website ](./image/instagram.svg)](https://www.instagram.com/surajbhan2019#gh-light-mode-only)
 [![website](./image/instagram.svg)](https://www.instagram.com/surajbhan2019#gh-dark-mode-only) -->
 
-### 💻Languages and Tools:
+### 💻Tech Stack:
 
 <!-- ![<img align="left" alt="JAVA" width="26px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" style="padding-right:10px;" />] -->
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
