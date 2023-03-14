@@ -28,9 +28,9 @@
 <br>
 
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+I'm+Surajbhan+Yadav+!;" style="max-width: 100%;">
-<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-<img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&width=500&height=51&lines=I+am+passionate+Frontend+Developer;Aspiring+Backend+Developement;Programmer+Problem+Solver' alt="Typing SVG"/>
 
+<img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&width=500&height=51&lines=I+am+passionate+Frontend+Developer;Aspiring+Backend+Developement;Programmer+Problem+Solver' alt="Typing SVG"/>
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full stack web development
