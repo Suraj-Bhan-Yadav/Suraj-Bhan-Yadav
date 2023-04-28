@@ -64,8 +64,9 @@ Here are some ideas to get you started:
 <br />
 
 ### My Resume
-
-[![](https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white)](https://suraj-bhan-yadav.github.io/myResume/)
+[![](https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white)](https://drive.google.com/file/d/11mLAn6GdSgykyUo8AQJpJvu47t1TN50o/view?usp=share_link)
+### My Portfolio
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://suraj-bhan-yadav.github.io/myResume/)
 <br>
 <br>
 ![Suraj-Bhan-Yadav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Suraj-Bhan-Yadav&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
