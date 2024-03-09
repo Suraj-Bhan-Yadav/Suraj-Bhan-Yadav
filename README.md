@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/Suraj-Bhan-Yadav)
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div align="center">
@@ -33,9 +32,9 @@
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="170"/>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on full stack web development
-- 🌱 I’m currently learning backend development
-- 🥅 2023 Goals: Learn more about fullstack development
+- 🔭 I’m currently working as Data Analyst in Mindsprint
+- 🌱 I’m currently learning full stack Data Science
+- 🥅 2024 Goals: Learn more about fullstack Data Science
 - ⚡ Fun fact: I love to dance and play guitar
 
 <!-- ### Connect with me:
@@ -72,14 +71,6 @@ Here are some ideas to get you started:
 ![Suraj-Bhan-Yadav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Suraj-Bhan-Yadav&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
 <!-- <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suraj-Bhan-Yadav&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />wi*quL3fcV -->
 <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suraj-Bhan-Yadav&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-<!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mitresh-prajapati/"> 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <p align="center">
